@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Call me nellag(Jueun Lee) and i'm a software engineer at DeepingSource.
+Call me gallen(Jueun Lee) and i'm a software engineer at DeepingSource.
 
 My responsibilities include maintaining/configurating  monitoring service, automating CI/CD, unifying/automating installation processes, and developing test tools and internal services for product development.
 
